@@ -8,7 +8,7 @@ You can build a virtual environment for project operation.
 pip3 install virtualenv
 pip3 install virtualenvwrapper
 
-virtualenv -p /usr/local/bin/python3.6 $env_name --clear  
+virtualenv -p /usr/local/bin/python3.8 $env_name --clear  
 
 # active venv.
 source $env_name/bin/activate  
